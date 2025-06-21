@@ -103,6 +103,7 @@ hr{
         & .card-footer p{
             font-size: 14px;
             margin-bottom: 12px;
+
         }
         & .forecast-item{
             display: grid;
